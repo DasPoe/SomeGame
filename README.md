@@ -1,2 +1,2 @@
 # SomeGame
-Using this to learn
+Using this to learn programing.
